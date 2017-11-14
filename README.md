@@ -8,7 +8,7 @@ Copyright [Frankie Fan](hustakin@gmail.com)
 Tested in Leaflet 1.1.0+
 
 **demo:**
-![Demo](https://github.com/hustakin/leaflet-panel-layers/master/images/demo.jpg)
+![Demo](https://github.com/hustakin/leaflet-treepanel-layers/blob/master/images/demo.jpg)
 
 
 **Source code:**  
