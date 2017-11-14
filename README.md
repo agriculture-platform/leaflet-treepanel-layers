@@ -17,7 +17,7 @@ Tested in Leaflet 1.1.0+
 
 #Usage
 
-**Panel Item Definition formats**
+**Code Example**
 ```javascript
     var parent = {
         name: 'Parent Node',
